@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuasPay</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="signInButton">SIGN IN</string>
+    <string name="signUpLink">Dont have an account SIGN UP</string>
+</resources>
